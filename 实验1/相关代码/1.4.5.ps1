@@ -1,0 +1,1 @@
+﻿ping -i 3 www.163.com

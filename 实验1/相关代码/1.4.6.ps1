@@ -1,0 +1,1 @@
+﻿ping -n 1 -r 5 www.163.com

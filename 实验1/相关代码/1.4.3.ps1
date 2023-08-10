@@ -1,0 +1,1 @@
+﻿ping -t www.163.com
